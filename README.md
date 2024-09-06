@@ -36,9 +36,6 @@ The Return of the WIZard: ...
 
 Posted byINE
 
-[![facebook](/assets/icons/ic_facebook_new.svg)](https://www.facebook.com/sharer.php?u=undefined?imageurl=https://media.graphassets.com/hyXc4sk3Tgq6lN6MO7jO)[![twitter](/assets/icons/ic_twitter.svg)](https://twitter.com/intent/tweet?url=undefined)[![linkedin](/assets/icons/ic_linkedin.svg)](https://www.linkedin.com/sharing/share-
-offsite/?url=undefined)
-
 ![news-featured](https://media.graphassets.com/hyXc4sk3Tgq6lN6MO7jO)
 
  _In our lab walkthrough series, we go through selected lab exercises on our
@@ -501,16 +498,4 @@ Subscribe
 trademarks are the property of their respective owners.
 
 Terms of servicePrivacy policy
-
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2750%27/%3e)![instagram
-Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![instagram
-Logo](/assets/icons/ic_instagram.svg)](https://www.instagram.com/inetraining)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2750%27/%3e)![facebook
-Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![facebook
-Logo](/assets/icons/ic_facebook.svg)](https://www.facebook.com/inetraining)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2750%27/%3e)![twitter
-Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![twitter
-Logo](/assets/icons/ic_twitter.svg)](https://twitter.com/ine)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2750%27/%3e)![linkedin
-Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![linkedin
-Logo](/assets/icons/ic_linkedin.svg)](https://www.linkedin.com/company/inetraining)[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2750%27/%3e)![youtube
-Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![youtube
-Logo](/assets/icons/ic_youtube.svg)](https://www.youtube.com/user/INEtraining)
 
