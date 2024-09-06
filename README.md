@@ -15,9 +15,13 @@ The HTML to Markdown Converter tool (`Html2Markdown.py`) is designed to streamli
 ### Command-Line Options
 
   ``` -h, --help ```       show this help message and exit
+
   ``` --url URL ```        URL to fetch HTML from.
+  
   ``` --local LOCAL ```   Path to the local HTML file.
+  
   ``` --output OUTPUT ```  Path to the output Markdown file. If not provided, the output will be printed to the console.
+  
   ``` --ignore-media ```   Ignore media content (images, videos) in the Markdown output.
 
 ### Example
