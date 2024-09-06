@@ -14,25 +14,15 @@ The HTML to Markdown Converter tool (`Html2Markdown.py`) is designed to streamli
 
 ### Command-Line Options
 
-<<<<<<< HEAD
   ``` -h, --help ```       show this help message and exit
   ``` --url URL ```        URL to fetch HTML from.
   ``` --local LOCAL ```   Path to the local HTML file.
   ``` --output OUTPUT ```  Path to the output Markdown file. If not provided, the output will be printed to the console.
   ``` --ignore-media ```   Ignore media content (images, videos) in the Markdown output.
-=======
-- `--url <URL>`: Fetch HTML content from a remote URL.
-- `--local <path>`: Read HTML content from a local file.
-- `--output <path>`: Define the output path for the converted Markdown file.
->>>>>>> c77dc67f6ced9d3d300be25bcdf4a64cd7756197
 
 ### Example
 
 To convert HTML content from a URL to a Markdown file, use the following command:
 
 ```bash
-<<<<<<< HEAD
 python3 Html2Markdown.py --url http://www.example.com/blog/how-i-heat-myself --output README.md --ignore-media
-=======
-python3 Html2Markdown.py --url http://www.example.com/blog/how-i-heat-myself --output README.md
->>>>>>> c77dc67f6ced9d3d300be25bcdf4a64cd7756197
